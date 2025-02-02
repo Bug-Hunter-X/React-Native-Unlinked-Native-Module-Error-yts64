@@ -1,0 +1,3 @@
+## React Native Unlinked Native Module Error
+
+This repository demonstrates a common error in React Native development: failing to properly link native modules required by third-party libraries.  The error is characterized by cryptic runtime errors when attempting to utilize library features dependent on native code.  The example showcases how to reproduce this error and the solution for fixing it using the provided code.
